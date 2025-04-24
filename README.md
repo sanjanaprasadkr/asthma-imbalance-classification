@@ -55,7 +55,6 @@ Detailed preprocessing was implemented in `project_code.R`, including:
   - Log transformation for right-skewed distributions
 - Z-score standardization for numeric variables.
 
-Rare category detection for factor variables was also conducted.
 
 ---
 
